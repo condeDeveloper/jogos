@@ -50,4 +50,9 @@ const GAMES = [
     desc: 'Adivinhe a palavra de 5 letras. Palavra do dia, estatísticas e compartilhar.',
     tags: ['dom', 'palavras', 'diário'],
   },
+  {
+    slug: 'space-invaders', name: 'Space Invaders', icon: '👾', color: '#3dff6e',
+    desc: 'Sprites em pixel art, barreiras destrutíveis, nave misteriosa e ondas infinitas.',
+    tags: ['canvas', 'arcade', 'tiro'],
+  },
 ];
