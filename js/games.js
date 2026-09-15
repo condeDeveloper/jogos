@@ -45,4 +45,9 @@ const GAMES = [
     desc: 'IA minimax imbatível, três dificuldades e modo dois jogadores.',
     tags: ['dom', 'estratégia', 'IA'],
   },
+  {
+    slug: 'termo', name: 'Termo', icon: '🟩', color: '#3aa394',
+    desc: 'Adivinhe a palavra de 5 letras. Palavra do dia, estatísticas e compartilhar.',
+    tags: ['dom', 'palavras', 'diário'],
+  },
 ];
