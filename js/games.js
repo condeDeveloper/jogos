@@ -70,4 +70,9 @@ const GAMES = [
     desc: 'Gráficos vetoriais, inércia, hiperespaço e asteroides que se dividem.',
     tags: ['canvas', 'arcade', 'vetorial'],
   },
+  {
+    slug: 'dino-runner', name: 'Dino Runner', icon: '🦖', color: '#9e9e9e',
+    desc: 'Corredor infinito com pássaros, ciclo dia/noite e velocidade crescente.',
+    tags: ['canvas', 'corrida', 'toque'],
+  },
 ];

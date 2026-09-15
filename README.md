@@ -20,6 +20,7 @@ Página que reúne todos os jogos clássicos que recriei em HTML5 e JavaScript p
 | 🎵 Genius | [jogar](https://condedeveloper.github.io/genius/) | [repo](https://github.com/condeDeveloper/genius) |
 | 🧩 Sudoku | [jogar](https://condedeveloper.github.io/sudoku/) | [repo](https://github.com/condeDeveloper/sudoku) |
 | ☄️ Asteroids | [jogar](https://condedeveloper.github.io/asteroids/) | [repo](https://github.com/condeDeveloper/asteroids) |
+| 🦖 Dino Runner | [jogar](https://condedeveloper.github.io/dino-runner/) | [repo](https://github.com/condeDeveloper/dino-runner) |
 
 ## Regras que todos seguem
 
