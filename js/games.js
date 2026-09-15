@@ -40,4 +40,9 @@ const GAMES = [
     desc: 'Cartas 3D, três temas de emojis e recorde por nível.',
     tags: ['dom', 'memória', 'família'],
   },
+  {
+    slug: 'jogo-da-velha', name: 'Jogo da Velha', icon: '❌', color: '#38bdf8',
+    desc: 'IA minimax imbatível, três dificuldades e modo dois jogadores.',
+    tags: ['dom', 'estratégia', 'IA'],
+  },
 ];

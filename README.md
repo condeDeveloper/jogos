@@ -14,6 +14,7 @@ Página que reúne todos os jogos clássicos que recriei em HTML5 e JavaScript p
 | 🧨 Breakout | [jogar](https://condedeveloper.github.io/breakout/) | [repo](https://github.com/condeDeveloper/breakout) |
 | 💣 Campo Minado | [jogar](https://condedeveloper.github.io/campo-minado/) | [repo](https://github.com/condeDeveloper/campo-minado) |
 | 🧠 Jogo da Memória | [jogar](https://condedeveloper.github.io/jogo-da-memoria/) | [repo](https://github.com/condeDeveloper/jogo-da-memoria) |
+| ❌ Jogo da Velha | [jogar](https://condedeveloper.github.io/jogo-da-velha/) | [repo](https://github.com/condeDeveloper/jogo-da-velha) |
 
 ## Regras que todos seguem
 
