@@ -65,4 +65,9 @@ const GAMES = [
     desc: 'Gerador de puzzles de solução única, anotações, dicas e quatro níveis.',
     tags: ['dom', 'puzzle', 'lógica'],
   },
+  {
+    slug: 'asteroids', name: 'Asteroids', icon: '☄️', color: '#e5e5e5',
+    desc: 'Gráficos vetoriais, inércia, hiperespaço e asteroides que se dividem.',
+    tags: ['canvas', 'arcade', 'vetorial'],
+  },
 ];
