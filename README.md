@@ -18,6 +18,7 @@ Página que reúne todos os jogos clássicos que recriei em HTML5 e JavaScript p
 | 🟩 Termo | [jogar](https://condedeveloper.github.io/termo/) | [repo](https://github.com/condeDeveloper/termo) |
 | 👾 Space Invaders | [jogar](https://condedeveloper.github.io/space-invaders/) | [repo](https://github.com/condeDeveloper/space-invaders) |
 | 🎵 Genius | [jogar](https://condedeveloper.github.io/genius/) | [repo](https://github.com/condeDeveloper/genius) |
+| 🧩 Sudoku | [jogar](https://condedeveloper.github.io/sudoku/) | [repo](https://github.com/condeDeveloper/sudoku) |
 
 ## Regras que todos seguem
 

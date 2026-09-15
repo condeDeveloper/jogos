@@ -60,4 +60,9 @@ const GAMES = [
     desc: 'Repita a sequência de cores e sons. Modo rígido e 20 rodadas para vencer.',
     tags: ['dom', 'memória', 'som'],
   },
+  {
+    slug: 'sudoku', name: 'Sudoku', icon: '🧩', color: '#2563eb',
+    desc: 'Gerador de puzzles de solução única, anotações, dicas e quatro níveis.',
+    tags: ['dom', 'puzzle', 'lógica'],
+  },
 ];
