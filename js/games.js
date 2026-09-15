@@ -75,4 +75,9 @@ const GAMES = [
     desc: 'Corredor infinito com pássaros, ciclo dia/noite e velocidade crescente.',
     tags: ['canvas', 'corrida', 'toque'],
   },
+  {
+    slug: 'acerte-a-toupeira', name: 'Acerte a Toupeira', icon: '🐹', color: '#ffeb3b',
+    desc: '30 segundos de reflexo com combo, toupeira dourada e bombas.',
+    tags: ['dom', 'reflexo', 'família'],
+  },
 ];

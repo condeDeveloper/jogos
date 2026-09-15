@@ -21,6 +21,7 @@ Página que reúne todos os jogos clássicos que recriei em HTML5 e JavaScript p
 | 🧩 Sudoku | [jogar](https://condedeveloper.github.io/sudoku/) | [repo](https://github.com/condeDeveloper/sudoku) |
 | ☄️ Asteroids | [jogar](https://condedeveloper.github.io/asteroids/) | [repo](https://github.com/condeDeveloper/asteroids) |
 | 🦖 Dino Runner | [jogar](https://condedeveloper.github.io/dino-runner/) | [repo](https://github.com/condeDeveloper/dino-runner) |
+| 🐹 Acerte a Toupeira | [jogar](https://condedeveloper.github.io/acerte-a-toupeira/) | [repo](https://github.com/condeDeveloper/acerte-a-toupeira) |
 
 ## Regras que todos seguem
 
