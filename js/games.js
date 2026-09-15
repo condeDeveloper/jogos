@@ -55,4 +55,9 @@ const GAMES = [
     desc: 'Sprites em pixel art, barreiras destrutíveis, nave misteriosa e ondas infinitas.',
     tags: ['canvas', 'arcade', 'tiro'],
   },
+  {
+    slug: 'genius', name: 'Genius', icon: '🎵', color: '#f87171',
+    desc: 'Repita a sequência de cores e sons. Modo rígido e 20 rodadas para vencer.',
+    tags: ['dom', 'memória', 'som'],
+  },
 ];

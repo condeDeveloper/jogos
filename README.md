@@ -17,6 +17,7 @@ Página que reúne todos os jogos clássicos que recriei em HTML5 e JavaScript p
 | ❌ Jogo da Velha | [jogar](https://condedeveloper.github.io/jogo-da-velha/) | [repo](https://github.com/condeDeveloper/jogo-da-velha) |
 | 🟩 Termo | [jogar](https://condedeveloper.github.io/termo/) | [repo](https://github.com/condeDeveloper/termo) |
 | 👾 Space Invaders | [jogar](https://condedeveloper.github.io/space-invaders/) | [repo](https://github.com/condeDeveloper/space-invaders) |
+| 🎵 Genius | [jogar](https://condedeveloper.github.io/genius/) | [repo](https://github.com/condeDeveloper/genius) |
 
 ## Regras que todos seguem
 
